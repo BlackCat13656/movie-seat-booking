@@ -32,4 +32,4 @@ container.addEventListener("click", (e) => {
     }
 })
 
-
+//agregar functions
